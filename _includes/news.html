@@ -1,0 +1,29 @@
+<div class="divider"></div>
+<div class="section">
+  <a class="anchor" name="news"></a>
+  <h2>News</h2>
+
+  <ul class="collapsible" data-collapsible="accordion">
+    {% for post in site.posts %}
+      <li>
+        <div class="collapsible-header hoverable">
+          <i class="mdi {{ post.icon }} large"></i>{{ post.title }}
+          <div style="float: right">{{ post.date | date: '%B %d, %Y' }}
+          </div>
+        </div>
+        <div class="collapsible-body">
+          <div class="flow-text">
+            {{ post.excerpt }}
+          </div>
+          <div class='center-align'>
+            <a class="waves-effect waves-light btn" href="{{ post.url }}">
+              Read more
+            </a>
+          </div>
+          <br>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
