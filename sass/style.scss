@@ -4,6 +4,13 @@ $secondary-color: color("blue", "lighten-1");
 
 @import "materialize";
 
+@media (max-width: 600px) {
+
+  .brand-logo {
+    width: 70%;
+  }
+}
+
 p {
   line-height: 2rem;
 }
