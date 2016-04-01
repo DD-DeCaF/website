@@ -1,29 +1,54 @@
 <div class="divider"></div>
 <div class="section">
   <a class="anchor" name="news"></a>
-  <h2>News</h2>
+  <h2>News and Social</h2>
 
-  <ul class="collapsible" data-collapsible="accordion">
-    {% for post in site.posts %}
-      <li>
-        <div class="collapsible-header hoverable">
-          <i class="mdi {{ post.icon }} large"></i>{{ post.title }}
-          <div style="float: right">{{ post.date | date: '%B %d, %Y' }}
-          </div>
-        </div>
-        <div class="collapsible-body">
-          <div class="flow-text">
-            {{ post.excerpt }}
-          </div>
-          <div class='center-align'>
-            <a class="waves-effect waves-light btn" href="{{ post.url }}">
+    <div class="row">
+
+      <div class="col l8 s12">
+
+
+
+        <ul class="collapsible" data-collapsible="accordion">
+          {% for post in site.posts %}
+          <li>
+            <div class="collapsible-header hoverable">
+              <i class="mdi {{ post.icon }} large"></i>{{ post.title }}
+              <div style="float: right">{{ post.date | date: '%B %d, %Y' }}
+              </div>
+            </div>
+            <div class="collapsible-body">
+              <div class="flow-text">
+                {{ post.excerpt }}
+              </div>
+              <div class='center-align'>
+                <a class="waves-effect waves-light btn" href="{{ post.url }}">
               Read more
             </a>
-          </div>
-          <br>
-        </div>
-      </li>
-    {% endfor %}
-  </ul>
+              </div>
+              <br>
+            </div>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col l4 s12">
+
+
+        <a class="twitter-timeline" href="https://twitter.com/DDDeCaF" data-widget-id="715960600413782016">Tweets by @DDDeCaF</a>
+        <script>
+          ! function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0],
+              p = /^http:/.test(d.location) ? 'http' : 'https';
+            if (!d.getElementById(id)) {
+              js = d.createElement(s);
+              js.id = id;
+              js.src = p + "://platform.twitter.com/widgets.js";
+              fjs.parentNode.insertBefore(js, fjs);
+            }
+          }(document, "script", "twitter-wjs");
+        </script>
+      </div>
+    </div>
 
 </div>
