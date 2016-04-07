@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using big “bio-data” to design better cell factories
+title: Using big “bio-data” to design better cell factories [Press release]
 icon: mdi-bell
 ---
 
