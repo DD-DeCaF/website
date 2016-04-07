@@ -8,6 +8,6 @@ The official kick-off meeting of the DD-DeCaF project was held in Brussels on 7-
 
 Representatives from all the different partners were present to officially start up the project and discuss the project’s management and implementation plan, work packages and tasks. It was also discussed outreach, communication and exploitation issues and technological details that will be addressed under the scope of DD-DeCaF.
 
-Mr Ioannis Vouldis ,project officer of the European Commission (EC), was also present at this meeting where he presented an introduction to Horizon2020 and its best practices.
+Mr Ioannis Vouldis, project officer of the European Commission (EC), was also present at this meeting where he presented an introduction to Horizon2020 and its best practices.
 
 The next consortium meeting will be held at Heildelber (Germany) on 26-27 September 2016 and hosted by EMBL.
