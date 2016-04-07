@@ -11,3 +11,6 @@ Representatives from all the different partners were present to officially start
 Mr Ioannis Vouldis, project officer of the European Commission (EC), was also present at this meeting where he presented an introduction to Horizon2020 and its best practices.
 
 The next consortium meeting will be held at Heildelber (Germany) on 26-27 September 2016 and hosted by EMBL.
+
+<img class="responsive-img" src="/images/photo_kick-off_meeting.jpg" alt="" style="max-width: 70%">
+
