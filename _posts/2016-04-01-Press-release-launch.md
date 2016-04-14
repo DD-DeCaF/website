@@ -37,5 +37,5 @@ If some cell types begin to dominate the gut, or if communities fight each other
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 686070.
 
-<a href="dd-decaf-pressrelease_20160401.pdf">Press release in PDF</a>
+<a href="images/dd-decaf-pressrelease_20160401.pdf">Press release in PDF</a>
 
