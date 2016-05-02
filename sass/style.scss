@@ -69,3 +69,9 @@ a.anchor {
     top: -60px;
     visibility: hidden;
 }
+
+img.responsive-img,
+video.responsive-video {
+  width: 100%;
+  height: auto;
+}
