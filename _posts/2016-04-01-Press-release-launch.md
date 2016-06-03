@@ -4,7 +4,7 @@ title: Using big “bio-data” to design better cell factories [Press release]
 icon: mdi-bell
 ---
 
-<b>The EU has granted 6.3 million Euros to the project DD-DeCaF, coordinated by the Novo Nordisk Foundation Center for Biosustainability. The objective is to develop a computer tool that will allow biotech companies to design and engineer cell factories faster than is currently possible today. The tool will accelerate the production of sustainable bio-chemicals and lay the groundwork for design of healthier foodstuff.</b>
+<b>The EU has granted 6.3 million Euros to the project DD-DeCaF, coordinated by the Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark. The objective is to develop a computer tool that will allow biotech companies to design and engineer cell factories faster than is currently possible today. The tool will accelerate the production of sustainable bio-chemicals and lay the groundwork for design of healthier foodstuff.</b>
 
 Today, many valuable molecules used in consumer goods, for example plastic diapers, cosmetics and food can be produced by cell factories – genetically engineered microbes such as baker’s yeast and Escherichia coli. But engineering microbes to produce large amounts of a given bio-chemical is very complicated, time consuming and expensive.
 
