@@ -13,9 +13,10 @@
           {% for post in site.posts %}
           <li>
             <div class="collapsible-header hoverable">
-              <i class="mdi {{ post.icon }} large"></i>{{ post.title }}
-              <div style="float: right">{{ post.date | date: '%B %d, %Y' }}
-              </div>
+              <p>
+                <i class="mdi {{ post.icon }} large"></i>
+                {{ post.title }} ({{ post.date | date: '%B %d, %Y' }})
+              </p>
             </div>
             <div class="collapsible-body">
               <div class="flow-text">
