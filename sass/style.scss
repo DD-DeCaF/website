@@ -75,3 +75,15 @@ video.responsive-video {
   width: 100%;
   height: auto;
 }
+
+.collapsible-header {
+  line-height: 1.5rem;
+  padding: 1rem;
+}
+
+.tool-img {
+    @extend img.responsive-img;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
