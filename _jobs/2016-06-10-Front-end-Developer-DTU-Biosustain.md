@@ -4,7 +4,7 @@ title: Front-end Web Developer for Synthetic Biology Design Platform
 icon: code-tags
 logo: images/DTU_logo.png
 employer: DTU Biosustain
-job-url: http://www.biosustain.dtu.dk/english/About/Vacant-Positions/job?id=6f896202-81fa-4c84-aedf-e9e7350fb11e
+job-url: http://ec.europa.eu/euraxess/index.cfm/jobs/jobDetails/34095569
 deadline: 2016-07-11
 published: true
 ---
