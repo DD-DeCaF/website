@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PaCMEN: 16 PhD fellowships
+title: PaCMEN ITN 16 PhD fellowships
 icon: code-tags
 logo: images/pacmen_logo.png
 employer: PaCMEN ITN
