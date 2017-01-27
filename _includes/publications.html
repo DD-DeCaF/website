@@ -8,7 +8,7 @@
         <li>
           <div class="collapsible-header hoverable">
             <i class="mdi {{ publication.icon }} large"></i>
-            {{ publication.authors}}, <span style="font-style: italic">{{ publication.title }}</span>, {{ publication.journal}}, {{ publication.volume }}({{ publication.number}}), {{publication.pages}}
+            {{ publication.authors}}, <span style="font-style: italic">{{ publication.title }}</span>, {{ publication.journal}} {% if publication.volume %}, {{ publication.volume }}{% if publication.number %}({{ publication.number}}) {% endif %} {% endif %}, {{publication.pages}}
             <div style="float: right">{{ publication.date | date: '%B %d, %Y' }}
             </div>
           </div>
