@@ -3,9 +3,9 @@ layout: publication
 title: Integration of Biomass Formulations of Genome-Scale Metabolic Models with Experimental Data Reveals Universally Essential Cofactors in Prokaryotes
 authors: Xavier, Joana C and Patil, Kiran Raosaheb and Rocha, Isabel
 journal: Metabolic Engineering
-volume:
+volume: 39
 number:
-pages:
+pages: 200-208
 year: 2016
 doi: 10.1016/j.ymben.2016.12.002
 icon: mdi-file-document
