@@ -5,7 +5,7 @@ icon: code-tags
 logo: images/silicolife.png
 employer: SilicoLife
 job-url: https://silicolife.recruiterbox.com/jobs/fk0mx24/
-deadline: 2017-04-31
+deadline: 2017-04-30
 published: true
 ---
 
