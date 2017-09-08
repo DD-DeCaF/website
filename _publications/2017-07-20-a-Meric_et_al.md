@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: redGEM: Systematic reduction and analysis of genome-scale metabolic reconstructions for development of consistent core metabolic models
+title: redGEM - Systematic reduction and analysis of genome-scale metabolic reconstructions for development of consistent core metabolic models
 authors: Ataman, Meric  and Gardiol, Daniel F. Hernandez and Fengos, Georgios and Hatzimanikatis, Vassily
 journal: PLOS Computational Biology
 volume: 13
