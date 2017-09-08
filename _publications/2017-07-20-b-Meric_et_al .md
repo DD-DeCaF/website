@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: lumpGEM: Systematic generation of subnetworks and elementally balanced lumped reactions for the biosynthesis of target metabolites
+title: lumpGEM - Systematic generation of subnetworks and elementally balanced lumped reactions for the biosynthesis of target metabolites
 authors: Ataman, Meric  and Hatzimanikatis, Vassily
 journal: PLOS Computational Biology
 volume: 13
