@@ -16,7 +16,7 @@ DD-DeCaF 2nd Workshop: data-driven cell factory design
 <p>&nbsp;</p>
 <p><span>This workshop will present the results of the DD-DeCaF project providing also an introduction to systems biology approaches for the design of cell factories and an overview of different tools developed by the consortium. The DD-DeCaF platform will be showcased alongside other metabolic engineering tools. The relevance of data-driven approaches in biotechnology will be discussed in an industry roundtable.</span></p>
 <p>&nbsp;</p>
-<p class="p1"><span>Program overview</span></p>
+<p class="p1"><span>Program overview ([Full program here](https://github.com/DD-DeCaF/website/blob/gh-pages/workshop_materials_lisbon/dd_decaf_workshop_agenda_LISBON2018_20180809.pdf))</span></p>
 
 <li class="li2"><span class="s1">The DD-DeCaF project</span></li>
 <li class="li2"><span class="s1">Systems biology and cell factory design</span></li>
