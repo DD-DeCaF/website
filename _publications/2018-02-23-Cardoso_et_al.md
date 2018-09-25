@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: MARSI: metabolite analogues for rational strain improvement
+title: MARSI - metabolite analogues for rational strain improvement
 authors: Cardoso, J. G. R. and Zeidan, A. A. and Jensen, K. and Sonnenschein, N. and Neves, A. R. and  Herrgård, M. J.
 journal: Bioinformatics
 volume: 34	

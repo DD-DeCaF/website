@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cameo: A Python Library for Computer Aided Metabolic Engineering and Optimization of Cell Factories
+title: Similarity of the dog and human gut microbiomes in gene content and response to diet
 authors: Coelho, L. P. and Kultima, J. R. and Costea, P. I. and Fournier, C. and Pan, Y. and Czarnecki-Maulden, G. and Hayward, M. R. and Forslund, S. K. and Schmidt, T. S. B. and Descombes, P. and Jackson, J. R. and Li, Q. and Bork, P.
 journal: Microbiome
 volume: 6

@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Selecting the best: evolutionary engineering of chemical production in microbes
+title: Selecting the best - evolutionary engineering of chemical production in microbes
 authors: Shepelin, D. and Hansen, A. S. L. and Lennen, R. and Luo, H. and Herrgård, M. J.
 journal: Genes
 volume: 9

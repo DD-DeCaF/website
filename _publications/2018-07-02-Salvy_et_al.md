@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: pyTFA and matTFA: A Python package and a Matlab toolbox for Thermodynamics-based Flux Analysis
+title: pyTFA and matTFA - A Python package and a Matlab toolbox for Thermodynamics-based Flux Analysis
 authors: Salvy, P. and Fengos, G. and Ataman, M. and Pathier, T. and Soh, K. C. and Hatzimanikatis, V.
 journal: Bioinformatics
 volume: 1

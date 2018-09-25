@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Cameo: A Python Library for Computer Aided Metabolic Engineering and Optimization of Cell Factories
+title: Cameo - A Python Library for Computer Aided Metabolic Engineering and Optimization of Cell Factories
 authors: Cardoso, J. G. and Jensen, K. and Lieven, C. and Lærke Hansen, A. S. and Galkina, S. and Beber, M. and Özdemir, E. and Herrgård, M. J. and Redestig, H. and Sonnenschein, N.
 journal: ACS synthetic biology
 volume: 7
