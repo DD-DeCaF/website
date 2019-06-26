@@ -1,7 +1,7 @@
 ---
 layout: publication
-title: SLIMEr: probing flexibility of lipid metabolism in yeast with an improved constraint-based modeling framework
-authors: Sanchéz, B.J. and Li, F. and Kerkhoven, E.J. and Nielsen, J.
+title: SLIMEr - probing flexibility of lipid metabolism in yeast with an improved constraint-based modeling framework
+authors: Sanchez, B.J. and Li, F. and Kerkhoven, E.J. and Nielsen, J.
 journal: BMC Systems Biology
 volume: 13
 number: 1
