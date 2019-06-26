@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Turnover Dependent Phenotypic Simulation: A Quantitative Constraint-Based Simulation Method That Accommodates All Main Strain Design Strategies
+title: Turnover Dependent Phenotypic Simulation - A Quantitative Constraint-Based Simulation Method That Accommodates All Main Strain Design Strategies
 authors: Pereira, R. and Vilaça, P. and Maia, P. and Nielsen, J. and Rocha, I.
 journal: ACS synthetic biology
 volume: 8

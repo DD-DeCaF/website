@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: OptCouple: Joint simulation of gene knockouts, insertions and medium modifications for prediction of growth-coupled strain designs
+title: OptCouple - Joint simulation of gene knockouts, insertions and medium modifications for prediction of growth-coupled strain designs
 authors: Jensen, K. and Broeken, V. and Hansen, A.S.L. and Sonnenschein, N. and Herrgard, M.J.
 journal: Metabolic Engineering Communications
 volume: 8

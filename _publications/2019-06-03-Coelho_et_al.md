@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: NG-meta-profiler: fast processing of metagenomes using NGLess, a domain-specific language
+title: NG-meta-profiler - fast processing of metagenomes using NGLess, a domain-specific language
 authors: Coelho, L.P. and Alves, R. and Monteiro, P. and Huerta-Cepas, J. and Freitas, A.T. and Bork, P.
 journal: Microbiome
 volume: 7
