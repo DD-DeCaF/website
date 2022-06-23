@@ -2,3 +2,5 @@ _site
 .sass-cache
 jspm_packages
 .idea
+.jekyll-cache
+.DS_Store
